@@ -3,6 +3,9 @@
 #  Mission Profile
 #
 # ATR Based on 275Kt Cruise
+#
+# Predicted fuel burn for this mission is within 1% of the value quoted in the
+# ATR fuel efficency manual
 # =============================================================================
 
 import matplotlib.pyplot as plt
